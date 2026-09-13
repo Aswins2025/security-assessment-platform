@@ -4,7 +4,7 @@ A full-stack platform for running structured, authorized security checks
 against web applications, scoring and prioritizing findings by risk, and
 generating shareable HTML/PDF assessment reports.
 
-**⚠️ Before using this tool against any target, read `docs/scope_and_authorization.md`
+Before using this tool against any target, read `docs/scope_and_authorization.md`
 and confirm you have written authorization to test that target.** The
 platform enforces an `is_authorized` flag at the project level, but that is
 a workflow safeguard, not a substitute for real authorization.
