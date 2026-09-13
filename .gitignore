@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+*.db
+backend/app/reports/generated/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.DS_Store
